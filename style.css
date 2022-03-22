@@ -1,0 +1,52 @@
+*{
+    background-color: beige;
+}
+
+@font-face {
+    font-family: death;
+    src: url(assets/fonts/Death-Star.otf);
+}
+@font-face {
+    font-family: mochi;
+    src: url(assets/fonts/MochiyPopOne-Regular.ttf);
+}
+h1{
+    font-family: death;
+    background-color: red;
+    border: 5px;
+    border-radius: 100%;
+    color: white;
+    padding: 10px;
+    margin: 0;
+    border-top: 25pt;
+}
+h2,h3{
+    font-family:mochi ;
+}
+.alpha{
+    padding: 3px;
+    border-top: transparent;
+    border-bottom: transparent;
+    font-family: death;
+    
+}
+img{
+    opacity: 80%;
+}
+.A{
+    font-size: 56pt;
+    color:rebeccapurple;
+    padding: 2px;
+    
+
+}
+.review{
+    font-size: 35pt;
+    color: blueviolet;
+}
+
+
+    
+}
+
+
